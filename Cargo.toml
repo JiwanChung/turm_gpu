@@ -1,6 +1,7 @@
 [package]
 name = "turm_gpu"
 version = "0.0.1"
+authors = ["Jiwan Chung <jiwan.chung.research@gmail.com>"]
 edition = "2021"
 
 [dependencies]
