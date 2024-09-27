@@ -3,6 +3,8 @@ name = "turm_gpu"
 version = "0.0.3"
 authors = ["Jiwan Chung <jiwan.chung.research@gmail.com>"]
 edition = "2021"
+description = "turm_gpu is a rust-based TUI for inspecting GPU resources in a slurm enviroment."
+license = "MIT"
 
 [lib]
 name = "turm_gpu"
