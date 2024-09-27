@@ -7,9 +7,7 @@ It internally uses `scontrol` for the data retrieval.
 
 If you know `cargo`,
 ```bash
-git clone https://github.com/JiwanChung/turm_gpu
-cd turm_gpu
-cargo install --path . 
+cargo install turm_gpu
 ```
 
 WARNING: `pip` installation is not working yet.
