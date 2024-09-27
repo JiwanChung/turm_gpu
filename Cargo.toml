@@ -1,6 +1,6 @@
 [package]
 name = "turm_gpu"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["Jiwan Chung <jiwan.chung.research@gmail.com>"]
 edition = "2021"
 
