@@ -5,6 +5,15 @@ It internally uses `scontrol` for the data retrieval.
 
 ## Installation
 
+If you know `pip`,
+
+```bash
+pip install turm-gpu
+```
+
+or use `pipx`.
+
+Alternatively, if you know `cargo`,
 ```bash
 git clone https://github.com/JiwanChung/turm_gpu
 cd turm_gpu
